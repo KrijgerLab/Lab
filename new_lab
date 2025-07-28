@@ -7,3 +7,9 @@ Zotero
 Research Rabbit
 https://www.youtube.com/watch?v=iqPCR-UY8zo
 https://www.youtube.com/watch?v=phWqcGcxeE4
+
+
+
+
+
+javascript:location.href = "http:" + "//" + window.location.host + ".proxy.library.uu.nl" + window.location.pathname;

@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=phWqcGcxeE4
 
 https://pubmed.ncbi.nlm.nih.gov/?otool=inluulib
 javascript:location.href = "http:" + "//" + window.location.host + ".proxy.library.uu.nl" + window.location.pathname;
+
+javascript:location.href = "http:" + "//" + window.location.host + ".utrechtuniversity.idm.oclc.org" + window.location.pathname;
